@@ -14,9 +14,14 @@ DISCUSSION
 The MapViewController class and MapViewController.xib encapsulate all the interactions with the map view. These files are a good place to start to see how to set the region and map type of an MKMapView object. 
 
 ===========================================================================
+BUILD REQUIREMENTS
+
+iOS 4.0 SDK
+
+===========================================================================
 SYSTEM REQUIREMENTS
 
-iPhone OS 3.0
+iPhone OS 3.2 or later
 
 ===========================================================================
 PACKAGING LIST
@@ -36,7 +41,8 @@ Contains the data for a world city object.
 ===========================================================================
 CHANGES FROM PREVIOUS VERSIONS
 
+1.1 Upgraded project to build with the iOS 4.0 SDK.
 1.0 Initial version published.
 
 ===========================================================================
-Copyright (C) 2009 Apple Inc. All rights reserved.
+Copyright (C) 2009-2010 Apple Inc. All rights reserved.

@@ -1,7 +1,7 @@
 /*
      File: MapViewController.m
  Abstract: Controls the map view, sets the map type, and sets the region according to the selected worldCity.
-  Version: 1.0
+  Version: 1.1
  
  Disclaimer: IMPORTANT:  This Apple software is supplied to you by Apple
  Inc. ("Apple") in consideration of your agreement to the following
